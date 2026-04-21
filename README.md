@@ -51,7 +51,7 @@ app.R # Main app entry point
 
 Access:
 
-[Poland´sBioExplorer](https://nunogarcia.shinyapps.io/shiny_-_appsilon_interview/) or trouht the link: https://nunogarcia.shinyapps.io/shiny_-_appsilon_interview/ 
+[Poland´sBioExplorer](https://nunogarcia.shinyapps.io/shiny_-_appsilon_interview/) or through the link: https://nunogarcia.shinyapps.io/shiny_-_appsilon_interview/ 
 
 ---
 
