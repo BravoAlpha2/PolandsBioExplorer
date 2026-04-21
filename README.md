@@ -81,20 +81,21 @@ Dataset pre-processing required due to large GBIF files
 ## Project Structure
 
 app.R # Main app entry point
-R scripts/
-helpers.R
-data_access.R
-mod_species_search.R
-mod_value_boxes.R
-mod_observation_map.R
-mod_timeline.R
-mod_species_details.R
-mod_traits.R
-mod_about.R
 
-Data/
-occurence_poland.csv
-multimedia_poland.csv
+- R scripts/
+  - helpers.R
+  - data_access.R
+  - mod_species_search.R
+  - mod_value_boxes.R
+  - mod_observation_map.R
+  - mod_timeline.R
+  - mod_species_details.R
+  - mod_traits.R
+  - mod_about.R
+
+- Data/
+  - occurence_poland.csv
+  - multimedia_poland.csv
 
 
 # Contacts:
