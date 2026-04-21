@@ -13,7 +13,6 @@ The app enables users to explore biodiversity observations through an integrated
 
 Beyond spatial and temporal exploration, the app delivers detailed species insights through summary cards, a complete records table with export options, and a dedicated traits module with ecological information. Users can refine analyses using filters such as year range, media availability, observation type, and map display options. The system is built on a Poland-focused subset of GBIF ([Global Biodiversity Information Facility](https://www.gbif.org/)) data, providing a meaningful default view, a map-first analytical workflow, consistent filtering across modules, and a modular architecture designed for scalability.
 
----
 
 ## Technical Architecture
 
