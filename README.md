@@ -1,9 +1,13 @@
-# Poland´s BioExplorer
+---
+
+## Poland´s BioExplorer
 Interactive Shiny dashboard to explore biodiversity observations in Poland. Users can search species, filter records, visualize occurrences on a map, analyze trends over time, and inspect detailed records and traits. Powered by DuckDB for fast, efficient data querying.
 
 
 <img width="1882" height="908" alt="image" src="https://github.com/user-attachments/assets/8b4d7146-d1f3-4058-8a9e-a09ec526ac07" />
 
+
+---
 
 ## Caractheristics
 
