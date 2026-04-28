@@ -59,6 +59,7 @@ Access:
 For more information, please contact the main authors: 
 
 Nuno Garcia
+Geospatial Data Scientist
 
   Contact(s):
 - Email: nunogarcia8@gmail.com;
