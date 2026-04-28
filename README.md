@@ -58,7 +58,7 @@ Access:
 # Contacts:
 For more information, please contact the main authors: 
 
-Nuno Garcia, Junior Researcher, Vrije Universiteit Amsterdam
+Nuno Garcia
 
   Contact(s):
 - Email: nunogarcia8@gmail.com;
